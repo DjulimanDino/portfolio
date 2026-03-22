@@ -1,16 +1,21 @@
 # Dino Portfolio
 
-This is my personal portfolio website built with HTML and CSS.
+This portfolio website was built to present my work, projects, and skills as I grow in web development.  
+It highlights my front-end practice and serves as a central place for sharing my projects.
 
-## About Me
-I am an IT graduate learning web development.
+## Features
+- Responsive design
+- Modern and clean user interface
+- Personal branding section
+- Project presentation
+- Easy navigation
 
-## Projects
-- Portfolio Website
-- Event Hub
-- Survey Form
-- Travel Agency Page
+## Built With
+- HTML5
+- CSS3
 
-## Contact
-Email: djulimandino17@gmail.com
-GitHub: https://github.com/DjulimanDino
+## Live Preview
+[Open Portfolio](https://djulimandino.github.io/portfolio/)
+
+## Author
+Dino Đuliman
